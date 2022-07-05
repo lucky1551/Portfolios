@@ -125,26 +125,26 @@ const Home = () => {
 
 <div className="homeCubeSkills">
   <div className="homeCubeSkillsFaces homeCubeSkillsFace1">
-    <img src="https://thecinemaholic.com/wp-content/uploads/2021/01/nezuu-e1638963260523.jpg" alt="Face1" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png?w=360" alt="Face1" />
   </div>
 
    <div className="homeCubeSkillsFaces homeCubeSkillsFace2">
-    <img src="https://i.insider.com/5e820b04671de06758588fb8?width=700" alt="Face2" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" alt="Face2" />
   </div>
 
   <div className="homeCubeSkillsFaces homeCubeSkillsFace3">
-    <img src="https://wallpapers.com/images/high/light-yagami-laugh-art-7fdq45hv7eodxlfx.jpg" alt="Face3" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Face3" />
   </div> 
   <div className="homeCubeSkillsFaces homeCubeSkillsFace4"> 
-            <img src="https://images7.alphacoders.com/119/1191186.jpg" alt="Face4" />
+            <img src="https://iconape.com/wp-content/png_logo_vector/javascript-logo.png" alt="Face4" />
           </div>
 
           <div className="homeCubeSkillsFaces homeCubeSkillsFace5">
-            <img src="https://c4.wallpaperflare.com/wallpaper/586/664/945/senkuu-ishigami-dr-stone-manga-hd-wallpaper-preview.jpg" alt="Face5" />
+            <img src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" alt="Face5" />
           </div>
 
           <div className="homeCubeSkillsFaces homeCubeSkillsFace6">
-            <img src="https://wallpaperaccess.com/full/36634.jpg" alt="Face6" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Face6" />
           </div>  
 
      </div>

@@ -33,7 +33,7 @@ const About = ({ about }) => {
               textAlign: "right",
             }}
           >
-           I am a self taught Web Developer...
+           I am learning webD...
           </Typography>
         </div>
       </div>
